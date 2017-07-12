@@ -1,1 +1,1 @@
-Hi there, my little friend\!
+This is an awesome excursion project.
